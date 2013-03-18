@@ -36,6 +36,7 @@ public class NoteEdit extends Activity {
         mDbHelper = new NotesDbAdapter(this);
         mDbHelper.open();
 
+        Button confirmButton = null;
         //Fill in code
 
         //Fill in code

@@ -41,6 +41,7 @@ public class Notepadv3 extends ListActivity {
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
+    	super.onCreate(savedInstanceState);
         //Fill in Code
     }
 
